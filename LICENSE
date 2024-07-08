@@ -1,0 +1,45 @@
+Apache License
+
+Version 2.0, January 2004
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+    Definitions.
+
+    "License" shall mean the terms and conditions for use, reproduction, and distribution as defined by this License Agreement. "Licensee" shall mean the individual or entity obtaining a copy of the Licensed Work under the License. "Licensor" shall mean the copyright owner or entity authorized to distribute the Licensed Work under the License. "Licensed Work" shall mean the software and documentation licensed under the License. "Source Code" shall mean the source code form of a software work. "Object Code" shall mean any non-source code form of a software work, including executable, library, or bytecode form. "Contribution" shall mean any work of authorship, including the original version of the Licensed Work and any modifications or derivatives of it, that is intentionally submitted to Licensor for inclusion in the Licensed Work.
+
+    Grant of Copyright License.
+
+    a. Subject to the terms and conditions of this License, Licensor hereby grants to Licensee a world-wide, non-exclusive, royalty-free, perpetual, irrevocable (except as stated in this section) license to make, use, sell, modify, reproduce, distribute, sublicense (and to permit sublicensees to do the same), and/or contribute the Licensed Work, or any portion thereof, with or without modifications, and to execute, perform, and display the Licensed Work or any portion thereof, with or without modifications, and for the Licensee to permit others to do so.
+
+    b. The grant of the foregoing rights includes copyright and other intellectual property rights (e.g., patent, trademark) that may pertain to the Licensed Work. However, nothing in this License shall grant Licensee any title to the copyright in the Licensed Work.
+
+    c. Termination. This License will terminate automatically upon any breach by Licensee of the terms and conditions of this License. Sections 3, 4, and 6 shall survive termination of this License.
+
+    Attribution.
+
+    Unless otherwise agreed to by Licensor, Licensor may include the name of Licensee as a contributor to the Licensed Work in the documentation or other materials provided with the Licensed Work and in the Source Code form of the Licensed Work.
+
+    Warranty Disclaimer.
+
+    THE LICENSED WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE LICENSED WORK OR THE USE OR OTHER DEALINGS IN THE LICENSED WORK.
+
+    Limitation of Liability.
+
+    IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+    Submissions and Feedback.
+
+    Any additions, deletions, or modifications to the Licensed Work ("Contributions") proposed by Licensee shall be submitted to Licensor by way of a pull request on the corresponding GitHub repository. Upon submission, Licensee shall irrevocably grant to Licensor a world-wide, non-exclusive, royalty-free, perpetual, irrevocable license to make, use, sell, modify, reproduce, distribute, sublicense (and to permit sublicensees to do the same), and/or contribute the Contributions, or any portion thereof, with or without modifications, and to execute, perform, and display the Contributions or any portion thereof, with or without modifications, and for Licensor to permit others to do so.
+
+    Governing Law.
+
+    This License shall be governed by and construed in accordance with the laws of the State of California, excluding its conflict of law rules.
+
+    Entire Agreement.
+
+    This License constitutes the entire agreement between the parties with respect to the subject matter hereof and supersedes all prior or contemporaneous communications and proposals, whether oral or written.
+
+END OF TERMS AND CONDITIONS
