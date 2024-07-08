@@ -71,3 +71,6 @@ Additional Notes
 
     If you encounter any issues during installation, seek assistance from the SNPgen developers whose details could be found on the footer of every webpage.
     Consider security best practices when setting permissions on directories and files. The recommended permissions in this guide are a starting point, and you might need to adjust them based
+
+License
+    SNPgen is licensed under the Apache License, Version
